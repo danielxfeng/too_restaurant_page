@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Grilled Salmon",
+        "description": "Fresh Atlantic salmon fillet grilled to perfection, served with steamed vegetables and a lemon butter sauce.",
+        "price": 18.99
+    },
+    {
+        "name": "Classic Cheeseburger",
+        "description": "Juicy beef patty topped with cheddar cheese, lettuce, tomato, and pickles, served on a toasted brioche bun with fries.",
+        "price": 12.49
+    },
+    {
+        "name": "Caesar Salad",
+        "description": "Crisp romaine lettuce tossed with Caesar dressing, parmesan cheese, and croutons, with an option to add grilled chicken.",
+        "price": 9.99
+    },
+    {
+        "name": "Margherita Pizza",
+        "description": "Classic Italian pizza topped with fresh mozzarella, basil, and tomato sauce, baked in a wood-fired oven.",
+        "price": 14.75
+    },
+    {
+        "name": "Spaghetti Carbonara",
+        "description": "Traditional Italian pasta dish with a creamy sauce made of eggs, cheese, pancetta, and black pepper.",
+        "price": 13.50
+    },
+    {
+        "name": "Vegetable Stir-Fry",
+        "description": "A mix of seasonal vegetables stir-fried with soy sauce, garlic, and ginger, served with jasmine rice.",
+        "price": 11.25
+    },
+    {
+        "name": "Grilled Salmon",
+        "description": "Fresh Atlantic salmon fillet grilled to perfection, served with steamed vegetables and a lemon butter sauce.",
+        "price": 18.99
+    },
+    {
+        "name": "Classic Cheeseburger",
+        "description": "Juicy beef patty topped with cheddar cheese, lettuce, tomato, and pickles, served on a toasted brioche bun with fries.",
+        "price": 12.49
+    },
+    {
+        "name": "Caesar Salad",
+        "description": "Crisp romaine lettuce tossed with Caesar dressing, parmesan cheese, and croutons, with an option to add grilled chicken.",
+        "price": 9.99
+    },
+    {
+        "name": "Margherita Pizza",
+        "description": "Classic Italian pizza topped with fresh mozzarella, basil, and tomato sauce, baked in a wood-fired oven.",
+        "price": 14.75
+    },
+    {
+        "name": "Spaghetti Carbonara",
+        "description": "Traditional Italian pasta dish with a creamy sauce made of eggs, cheese, pancetta, and black pepper.",
+        "price": 13.50
+    },
+    {
+        "name": "Vegetable Stir-Fry",
+        "description": "A mix of seasonal vegetables stir-fried with soy sauce, garlic, and ginger, served with jasmine rice.",
+        "price": 11.25
+    }
+]
