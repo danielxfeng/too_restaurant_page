@@ -9,7 +9,7 @@ const content = () => {
 }
 
 const h1 = () => {
-    const h1 = document.createElement('h1');
+    const h1 = document.createElement('h2');
     h1.textContent = 'Menu';
     return h1;
 }
@@ -27,11 +27,12 @@ const menuItem = (item) => {
     const tilte = document.createElement('h3');
     tilte.textContent = item.name;
     const price = document.createElement('p');
-    price.textContent = item.price;
+    price.textContent = `$${item.price}`;
     const description = document.createElement('p');
     description.textContent = item.description;
 
     const div = document.createElement('div');
+    div.className = 'menu-item';
     div.appendChild(tilte);
     div.appendChild(price);
     div.appendChild(description);

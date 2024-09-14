@@ -1,5 +1,9 @@
 import contact from './json/contact.json';
 
+function capitalizeFirstLetter(string) {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
 const content = () => {
     const content = document.createElement('div');
     content.id = 'contact';
@@ -18,7 +22,9 @@ const cards = () => {
     const content = document.createElement('div');
     content.id = 'contact-container';
     for (const k in contact) {
-        content.appendChild(card(k, contact[k]));
+        if (contact.hasOwnProperty(k)) {
+            content.appendChild(card(capitalizeFirstLetter(k), contact[k]));
+        }
     }
     return content;
 }
